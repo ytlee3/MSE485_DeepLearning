@@ -1,1 +1,1 @@
-The code for deep learning test: [Deeplearning.txt](https://github.com/ytlee3/MSE485_DeepLearning/files/7656950/Deeplearning.txt)
+We use the colab to run the deep learning test and the code is in the MSE485_DL_test_.ipynb file 
